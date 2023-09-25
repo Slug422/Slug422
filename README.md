@@ -4,6 +4,7 @@
 __QUI SUIS-JE?__
 
 >_je m'appel Adrien GELDHOF, je suis actuellement en formation developpeur web et web mobile_
+
 >[!IMPORTANT]
 >Je suis reconnu en qualité de travailleur handicapé
 
