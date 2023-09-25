@@ -23,11 +23,11 @@ je vais apprendre lors de ma formation:
 
 __MES COORDONNEES__
 
-**téléphone** 07.70.48.18.15
+_téléphone_ 07.70.48.18.15
 
-**mail** geldhof.adrien@gmail.com
+_mail_ geldhof.adrien@gmail.com
 
-**discord** NakedSlug#3272
+_discord_ NakedSlug#3272
 <!--
 **Slug422/Slug422** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
