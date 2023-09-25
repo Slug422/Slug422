@@ -7,7 +7,7 @@
 
 #j'apprends actuellement:
 
->__a tenter de créer un **readme** sur **github**__
+>_a tenter de créer un **readme** sur **github**_
 
 #je vais apprendre lors de ma formation:
 
