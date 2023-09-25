@@ -15,7 +15,9 @@ j'apprends actuellement:
 je vais apprendre lors de ma formation:
 
 *html5
+
 *CSS
+
 *Javascript
 
 
