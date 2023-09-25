@@ -3,7 +3,7 @@
 
 __QUI SUIS-JE?__
 
->_je m'appel Adrien GELDHOF, je suis actuellement en formation developpeur web et web mobile_
+>_je m'appel Adrien GELDHOF,35 ans, je suis actuellement en formation developpeur web et web mobile. j'ai surtout travaillé dans la santé, en tant que secrétaire médical_
 
 >[!IMPORTANT]
 >Je suis reconnu en qualité de travailleur handicapé
