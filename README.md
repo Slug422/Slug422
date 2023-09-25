@@ -9,6 +9,10 @@ _je m'appel Adrien GELDHOF, je suis actuellement en formation developpeur web et
 
 a tenter de créer un **readme** sur **github**
 
+#je vais apprendre lors de ma formation:
+
+
+
 <!--
 **Slug422/Slug422** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
