@@ -1,15 +1,15 @@
 ### Hello there 👋
 #**ADRIEN GELDHOF**
 
-#__QUI SUIS-JE?__
+__QUI SUIS-JE?__
 
 >_je m'appel Adrien GELDHOF, je suis actuellement en formation developpeur web et web mobile_
 
-#j'apprends actuellement:
+j'apprends actuellement:
 
 >_a tenter de créer un **readme** sur **github**_
 
-#je vais apprendre lors de ma formation:
+je vais apprendre lors de ma formation:
 
 >html5
 
