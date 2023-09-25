@@ -2,7 +2,8 @@
 #**ADRIEN GELDHOF**
 
 #__QUI SUIS-JE?__
--_je m'appel Adrien GELDHOF, je suis actuellement en formation developpeur web et web mobile_
+
+_je m'appel Adrien GELDHOF, je suis actuellement en formation developpeur web et web mobile_
 
 j'apprends actuellement: a tenter de créer un readme sur github
 
