@@ -6,7 +6,7 @@
 _je m'appel Adrien GELDHOF, je suis actuellement en formation developpeur web et web mobile_
 
 #j'apprends actuellement:
-a tenter de créer un readme sur **github**
+a tenter de créer un **readme** sur **github**
 
 <!--
 **Slug422/Slug422** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
