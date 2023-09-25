@@ -1,5 +1,5 @@
 ### Hello there 👋
-#** ADRIEN GELDHOF**
+# ADRIEN GELDHOF
 
 __QUI SUIS-JE?__
 
