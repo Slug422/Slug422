@@ -14,11 +14,11 @@ j'apprends actuellement:
 
 je vais apprendre lors de ma formation:
 
->html5
+*html5
 
->CSS
+*CSS
 
->Javascript
+*Javascript
 
 
 
