@@ -21,6 +21,7 @@ je vais apprendre lors de ma formation:
 
 >*Javascript
 
+>*SQL
 
 __MES COORDONNEES__
 
